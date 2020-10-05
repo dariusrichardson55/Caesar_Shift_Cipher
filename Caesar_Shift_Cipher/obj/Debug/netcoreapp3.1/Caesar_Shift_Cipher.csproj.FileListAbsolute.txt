@@ -1,0 +1,12 @@
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.exe
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.deps.json
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.runtimeconfig.json
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.runtimeconfig.dev.json
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.dll
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\bin\Debug\netcoreapp3.1\Caesar_Shift_Cipher.pdb
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.AssemblyInfoInputs.cache
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.AssemblyInfo.cs
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.dll
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.pdb
+C:\Users\dariu\Desktop\Caesar_Shift_Cipher\Caesar_Shift_Cipher\obj\Debug\netcoreapp3.1\Caesar_Shift_Cipher.genruntimeconfig.cache
